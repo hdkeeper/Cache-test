@@ -1,0 +1,14 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keeper",
+  "license": "ISC",
+  "dependencies": {
+    "object-sizeof": "^1.2.0"
+  }
+}
